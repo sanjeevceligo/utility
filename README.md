@@ -3,7 +3,7 @@ This repo is for repository for -
 1. Enabling microservices for all automation accounts
 2. Generate Email assocaited with tokens from env files
 
-**prerequisites**
+**Prerequisites**
 1. Pull latest platform.ts (updated/latest)
 2. Have latest env file 
 
