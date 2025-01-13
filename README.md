@@ -26,4 +26,5 @@ Note the following:
 4. Command to run utility - node finalMsEnable
 
 **Generate Email assocaited with tokens from env files**
+
 Run this with node finalemail
