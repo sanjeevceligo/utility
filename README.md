@@ -12,8 +12,7 @@ This repo is for repository for -
 Update the list of MS as required 
 
 **Command to run files**
-node finalMsEnable
-node finalemail
+node finalMsEnable and node finalemail
 
 **About files**
 finalMsEnable - To enable MS for all automation accounts in env file
