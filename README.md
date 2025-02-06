@@ -31,3 +31,8 @@ Note the following:
 **Generate Email assocaited with tokens from env files**
 
 Run this with node finalemail
+
+**Run set of commands multiple times**
+node dockerautomation.js
+Enter delay between every command run
+Enter number of repetitions for running set of commands
