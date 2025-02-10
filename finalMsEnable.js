@@ -112,7 +112,7 @@ async function enableMicroservices(token, userId) {
         "microServices.enableAS2Service": true,
         "microServices.enableRMService": true,
         "microServices.enableFMService": true,
-        "microServices.enableEPService": false,
+        "microServices.enableEPService": true,
         "microServices.enableFtpJschUpgrade": true,
         "microServices.enableNetSuiteProxy": true,
         "microServices.enableAs2": true,
