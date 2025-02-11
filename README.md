@@ -7,6 +7,7 @@ This repo is for repository for -
 **Prerequisites**
 1. Pull latest platform.ts (updated/latest)
 2. Have latest env file
+3. npm install json2csv
 
 <img width="1728" alt="Screenshot 2025-01-15 at 12 00 23 PM" src="https://github.com/user-attachments/assets/abc114a7-2665-40c0-a049-d4377cc225ce" />
 
