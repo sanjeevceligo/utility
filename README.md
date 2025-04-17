@@ -42,7 +42,10 @@ Enter delay between every command run
 
 Enter number of repetitions for running set of commands
 
-**To run tagComparisionTest.js, need to run with node tagComparisionTest.js and give user inputs for both environments to compare with**
+**To run tagComparisionTest.js**
+
+Need to run with node tagComparisionTest.js and give user inputs for both environments to compare with
+
 Prerequisite
 npm install axios yaml exceljs chalk prompt-sync
 
